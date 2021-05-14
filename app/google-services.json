@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195306614801",
+    "project_id": "chatfirebased3",
+    "storage_bucket": "chatfirebased3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195306614801:android:a53ae914e3b64369c041b0",
+        "android_client_info": {
+          "package_name": "br.saojudas.sdm21_1.chatcomfirebased3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195306614801-95upgpghalt83j0piulbmklrperc02fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLfKKy9LGfGNPErNaFmL5FCPhsLUFUaHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195306614801-95upgpghalt83j0piulbmklrperc02fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
