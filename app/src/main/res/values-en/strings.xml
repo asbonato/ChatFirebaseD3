@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chat with Firebase D3</string>
+    <string name="dica_login">Enter your username</string>
+    <string name="dica_senha">Enter your password</string>
+    <string name="quero_me_cadastrar">I want to sign up</string>
+    <string name="data_nome">In %s, %s says:</string>
+    <string name="digite_sua_mensagem">Enter your message</string>
+    <string name="botao_ok">OK</string>
+</resources>

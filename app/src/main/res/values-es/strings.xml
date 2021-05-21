@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Charla com Firebase D3</string>
+    <string name="dica_login">Escriba su nombre</string>
+    <string name="dica_senha">Escriba su contraseña</string>
+    <string name="quero_me_cadastrar">Quiero registrarme</string>
+    <string name="data_nome">En %s, %s dijo:</string>
+    <string name="digite_sua_mensagem">Escribe tu mensaje</string>
+    <string name="botao_ok">OK</string>
+</resources>
